@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+[Download Full CV](https://JonasLiweiChen.github.io/files/JonasChenCV_Nov2026.pdf)
 
 Education
 ======
