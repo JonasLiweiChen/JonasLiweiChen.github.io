@@ -9,11 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.Sc. in Educational Psychology and Counseling, National Tsing Hua University, 2027 (expected)
+* B.Ed. in Psychology and Counseling, University of Taipei, 2024
+* B.Ed. in Early Childhood Education, University of Taipei (Licensed preschool educator), 2024
 
 Work experience
 ======
