@@ -29,7 +29,7 @@ author:
   bio              : "Third-Year M.Sc. Student in Educational Psychology and Counseling"
   location         : "Hsinchu, Taiwan"
   employer         : "National Tsing Hua University"
-  uri              : "https://www.nthu.edu.tw/"
+  uri              : #"https://www.nthu.edu.tw/"
   email            : "jonas.psychology.taiwan@gapp.nthu.edu.tw" 
 
   # Academic websites
