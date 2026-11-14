@@ -58,7 +58,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "https://bsky.app/profile/jonaspsychtaiwan.bsky.social" # Replace this with you Bluesky username
+  bluesky          : "@jonaspsychtaiwan.bsky.social" # Replace this with you Bluesky username
   facebook         : "https://www.facebook.com/profile.php?id=100040154923483"
   flickr           : # Username
   foursquare       : # Username
@@ -67,7 +67,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/li-weichen-jonaspsytaiwan/"
+  linkedin         : "https://linkedin.com/in/li-weichen-jonaspsytaiwan"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
