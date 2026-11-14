@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Jonas Li-Wei Chen / Site Title"
+title                    : "Jonas Li-Wei Chen / Jonas Li-Wei Chen"
 title_separator          : "-"
 name                     : &name "Jonas Li-Wei Chen"
 description              : &description "MSc Student in Educational Psychology and Counseling"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -57,8 +57,8 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "@jonaspsychtaiwan.bsky.social" # Replace this with you Bluesky username
-  facebook         : # Username
+  bluesky          : "https://bsky.app/profile/jonaspsychtaiwan.bsky.social" # Replace this with you Bluesky username
+  facebook         : "https://www.facebook.com/profile.php?id=100040154923483"
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/li-weichen-jonaspsytaiwan/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -84,8 +84,8 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
+  #books:
+    #title: 'Books'
   manuscripts:
     title: 'Journal Articles'    
   conferences:
