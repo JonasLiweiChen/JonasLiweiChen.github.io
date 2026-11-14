@@ -9,8 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Jonas Li-Wei Chen | Personal Website"
-subtitle                 : "Version 0.0"
+title                    : "Jonas Li-Wei Chen"
 title_separator          : "-"
 name                     : &name "Jonas Li-Wei Chen"
 description              : &description "Third-Year M.Sc. Student in Educational Psychology and Counseling"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -27,14 +26,14 @@ author:
   avatar           : "Photo1.jpg"
   name             : "Jonas Li-Wei Chen"
   pronouns         : "he/him"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Third-Year M.Sc. Student in Educational Psychology and Counseling"
   location         : "Hsinchu, Taiwan"
   employer         : "National Tsing Hua University"
-  uri              : # URL
+  uri              : "https://www.nthu.edu.tw/"
   email            : "jonas.psychology.taiwan@gapp.nthu.edu.tw" 
 
   # Academic websites
-  academia         : # URL
+  academia         : "https://jonasliweichen.github.io/"
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
